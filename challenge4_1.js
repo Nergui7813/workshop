@@ -1,4 +1,5 @@
-const nums = [1,2,3, 4]
+// const nums = [1,2,3, 4]
+const nums = [-10, 2, -5]
 
 const shuffledArray = function (array) {
     const suffled_array = array.slice(); // Make a copy of the input array
